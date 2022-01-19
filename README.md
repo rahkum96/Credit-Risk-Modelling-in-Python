@@ -32,9 +32,9 @@ The objective of this article is to build a model to predict probability of pers
 
 Just run `jupyter notebook` in terminal and it will run in your browser.
 
-Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
+- Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
 
-install xgboost by using pip install xgb in command line prompt/ anconda i've you haven't.
+- install xgboost by using `pip install xgb` in command line prompt/ anconda i've you haven't.
 
 ## Machine learning algorithm
 - Logistic regression
