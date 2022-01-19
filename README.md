@@ -23,7 +23,13 @@ Just run `jupyter notebook` in terminal and it will run in your browser.
 
 Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
 
-## Model evaluation
+## Machine learning algorithm
+- Logistic regression
+- Random Forest
+- Xgboost Classifer
+- Cross validation
+
+## Model Evaluation
 - we have acheived the final model accuracy 82%
 
 ## Steps to run this model in your system 
