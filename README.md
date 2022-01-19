@@ -5,19 +5,19 @@ The objective of this article is to build a model to predict probability of pers
 
 ## Approach
  1. Data preparation and Pre-processing
-   - Checking missing values
-   - Outliers removal
-   - Encoding concept
+     - Checking missing values
+     - Outliers removal
+     - Encoding concept
  2. Feature Engineering and Selection
-   - features selection
-   - Scaling the features
-   - Balancing the data
+     - features selection
+     - Scaling the features
+     - Balancing the data
  3. Model Development and Model Evaluation
-  - Logistic regression
-  - Random Forest
-  - Xgboost
-  - Hyperparameter tuning
-  - Cross validation
+     - Logistic regression
+     - Random Forest
+     - Xgboost
+     - Hyperparameter tuning
+     - Cross validation
 
 ### Dependencies
  
