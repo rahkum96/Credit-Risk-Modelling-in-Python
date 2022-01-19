@@ -45,7 +45,10 @@ Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i'v
 
 ## Steps to run this model in your system 
 - Clone or download the repo.
-- Open command prompt in the downloaded folder.
+- Open command prompt in the downloaded folder
+
+## Conclusion:
+We have built the credit risk model by using python. we have tried with different machine learning algorithms ie. Logistic regression, Random Forest, and Xgboost classifier. we have also done hyperparameter tuning and cross-validation. The final accuracy of the model we achieved was 82%.
 
 ## Dataset:
 - https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
