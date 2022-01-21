@@ -4,7 +4,8 @@ Credit risk refers to the chance that a borrower will be unable to make their pa
 ## More detail explanation
 Read in my blogs https://medium.com/mlearning-ai/credit-risk-modelling-in-python-7b21a0b794b1
 
-The objective of this article is to build a model to predict probability of person defaulting a loan.
+## Objective
+The objective of this project is to predict the probability of default on a given obligation, in this case, credit cards. This will allow the generation of strategies that minimize the risk of deterioration of the client's financial health.
 
 ## Approach
  1. Data preparation and Pre-processing
