@@ -1,5 +1,5 @@
 # Credit-Risk-Modelling-in-Python 
-Credit risk refers to the chance that a borrower will be unable to make their payments on time and default on their debt. It refers to the risk that a lender may not receive their interest due or the principal lent on time.
+Credit risk refers to the chance that a borrower will be unable to make their payments on time and default on their debt. It refers to the risk that a lender may not receive their interest due or the principal lent on time. 
 
 ## More detail explanation
 Read in my blogs https://medium.com/mlearning-ai/credit-risk-modelling-in-python-7b21a0b794b1
