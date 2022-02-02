@@ -2,7 +2,7 @@
 Credit risk refers to the chance that a borrower will be unable to make their payments on time and default on their debt. It refers to the risk that a lender may not receive their interest due or the principal lent on time.
 
 ## More detail explanation
-Read in my blogs https://medium.com/mlearning-ai/credit-risk-modelling-in-python-7b21a0b794b1
+Read in my blogs https://medium.com/mlearning-ai/credit-risk-modelling-in-python-7b21a0b794b1 
 
 ## Objective
 The objective of this project is to predict the probability of default on a given obligation, in this case, credit cards. This will allow the generation of strategies that minimize the risk of deterioration of the client's financial health.
